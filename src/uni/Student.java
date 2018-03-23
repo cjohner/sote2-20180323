@@ -4,6 +4,7 @@ public class Student {
 	private String name;
 	
 	//Just a note
+	//branch 2
 
 	public Student(String name) {
 		super();
