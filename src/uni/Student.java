@@ -3,7 +3,7 @@ package uni;
 public class Student {
 	private String name;
 	
-	
+	//Just a note
 
 	public Student(String name) {
 		super();
